@@ -1,0 +1,36 @@
+4.4. Project organization
+
+4.4.1. External interfaces
+
+The project has a supervisor who's name is Shan Huang. The supervisor's role is to track the project's progress and to provide help if it is needed.
+
+Supervisor has an access to the public Git repository of the project (the repository is situated on Github.com). After the deployment of the project management software, such as Trac, the supervisor will be given an access to the project management software as well.
+
+The final version of the project should be submitted to Jonas Öberg, who is the teacher of the "TIG020 H10 Project: Programming" course.
+
+It is also possible to ask Jonas Öberg for project requirements details and about all the information about the "Silver level" and "Gold level".
+
+4.4.2. Internal structure
+
+The main interaction interface for the development team is the Git distributed Version Control System.
+
+With the help of Git every team member can easily update his local version of the project to a most recent one. Additionally, every developer in the team can do his part of work at his own pace, committing changes only to his local repository.
+
+While the main roles are already set for this project, we still expect that there can be some circumstances that will force a member who is, for instance, responsible for the networking to help the GUI developer. Thus there is no strict administrative distinction between the members of the team.
+
+The team intends to use Trac as a main project management tool. All the tasks of the project would be implemented through the Trac's ticketing system. Bug tracking would be implemented in the same manner.
+
+The main communication tool for the team would be Trac's forum plugin.
+
+4.4.3. Roles and responsibilities
+
+Name		Role
+
+Johan Schützer		Game designer, GUI coder 
+Massih Mozahhebi	 Networking coder
+Sebastian Hansson	 Graphics designer, documentation manager
+Amir Almassi	 AI coder
+Dmitry Igoshin	 Software architect
+Kirill Blazhko	 Project manager, coder
+
+
